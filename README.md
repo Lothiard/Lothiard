@@ -5,4 +5,4 @@ My current goal is to solve all the hungarian matura exam's IT part, which is ca
 
 All of the exams can be found in https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok under emelt szint -> digitalis kultura, and my solutions in my repo under the same name.
 
-note that i am completely self-taught because high school didn't really teach anything at all, and the only langugage i know is C++.
+note that i am completely self-taught because high school didn't really teach anything at all, and the only language i know is C++.
