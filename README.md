@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Lothiard
-- 👀 I’m interested in learning how to code, primarily c++. I've been interested in making games since I was a kid and I finally got to the point where I actually committed.
-- 🌱 I’m currently learning c++ and unreal on Ben Tristem's course.
-- 📫 If you want to reach me: my discord is Lothiard59#4851, I'm on here most of the time.
+Hi,
+I'm an 18 years old high school student from Hungary, and I've been interested in coding ever since i was about 9.
+In the beginning I was mostly interested in gamedev because that made programming playful enough for it to be fun, so i spent most of my time trying to copy youtube turorials and learn from them.
+My current goal is to solve all the hungarian matura exam's IT part, which is called "digitális kultúra" for some reason.
 
-<!---
-Lothiard/Lothiard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+All of the exams can be found in https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok under emelt szint -> digitalis kultura, and my solutions in my repo under the same name.
+
+note that i am completely self-taught because high school didn't really teach anything at all, and the only langugage i know is C++.
