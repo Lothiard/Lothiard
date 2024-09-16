@@ -1,8 +1,8 @@
-# Hi there, I'm János 👋
+# Hi there 👋
 
-Welcome to my GitHub profile! I'm a Computer Science student at Eötvös Loránd University (ELTE) and an amateur solo game developer specializing in Unreal Engine. Most of my projects here are based on tutorials and courses I've taken.
+Welcome! I'm a Computer Science student at Eötvös Loránd University (ELTE) with an interest in gamedev.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Software
 
 - **Game Engine:** Unreal Engine 5
 - **Programming Languages:** C++, Blueprint
@@ -10,18 +10,22 @@ Welcome to my GitHub profile! I'm a Computer Science student at Eötvös Loránd
 
 ## 📚 Current Learning
 
-I'm currently expanding my skills through various online courses and tutorials. Some of the topics I'm diving into include:
+I'm constantly learning from YouTube tutorials and uni. Here's what I'm currently on:
 
 - Soulslike Melee Combat System
 - Smart Enemy AI
 - Improved hit collision system
+
+- Haskell
+- C
+- C#
 
 ## 🌱 Projects
 
 ### digitalis-kultura
 As practice for the Hungarian Matura exams, I programmed solutions for almost all the IT exam tasks from previous years. This project helped me get into ELTE and significantly improved my programming skills.
 
-**Technologies Used:**
+**Languages Used:**
 - Languages: C++, HTML, CSS, SQL
 - Tools: Visual Studio 2022, Visual Studio Code
 
