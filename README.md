@@ -22,6 +22,9 @@ I'm constantly learning from YouTube tutorials and uni. Here's what I'm currentl
 
 ## 🌱 Projects
 
+### elte-cs-bsc
+All of the code from uni goes [here](https://github.com/Lothiard/elte-cs-bsc)
+
 ### digitalis-kultura
 As practice for the Hungarian Matura exams, I programmed solutions for almost all the IT exam tasks from previous years. This project helped me get into ELTE and significantly improved my programming skills.
 
