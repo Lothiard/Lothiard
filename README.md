@@ -28,10 +28,6 @@ All of the code from uni goes [here](https://github.com/Lothiard/elte-cs-bsc)
 ### digitalis-kultura
 As practice for the Hungarian Matura exams, I programmed solutions for almost all the IT exam tasks from previous years. This project helped me get into ELTE and significantly improved my programming skills.
 
-**Languages Used:**
-- Languages: C++, HTML, CSS, SQL
-- Tools: Visual Studio 2022, Visual Studio Code
-
 You can find the project [here](https://github.com/Lothiard/digitalis-kultura).
 
 ## 🎓 Education
