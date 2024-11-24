@@ -1,46 +1,26 @@
-# Hi there 👋
+# 👋 yo
 
-Welcome! I'm a Computer Science student at Eötvös Loránd University (ELTE) with an interest in gamedev.
-
-## 🛠️ Software
-
-- **Game Engine:** Unreal Engine 5
-- **Programming Languages:** C++, Blueprint
-- **Tools:** Visual Studio, Git, SourceTree
-
-## 📚 Current Learning
-
-I'm constantly learning from YouTube tutorials and uni. Here's what I'm currently on:
-
+## 📚 Currently Learning
+### Gamedev
 - Soulslike Melee Combat System
 - Smart Enemy AI
 - Improved hit collision system
 
+### Languages
 - Haskell
 - C
 - C#
 
 ## 🌱 Projects
 
-### elte-cs-bsc
-All of the code from uni goes [here](https://github.com/Lothiard/elte-cs-bsc)
+### [elte-cs-bsc](https://github.com/Lothiard/elte-cs-bsc)
+Everything I do at the university I just commit here because I like having everything version controlled, also someone might find it interesting.
 
-### digitalis-kultura
-As practice for the Hungarian Matura exams, I programmed solutions for almost all the IT exam tasks from previous years. This project helped me get into ELTE and significantly improved my programming skills.
-
-You can find the project [here](https://github.com/Lothiard/digitalis-kultura).
+### [digitalis-kultura](https://github.com/Lothiard/digitalis-kultura)
+As practice for the Hungarian Matura exams, I solved most of the previous years' IT exam's programming parts. This project will forever hold a special place in my heart because it is purely written in C++ that I learned by myself intuitively. Also it helped me get into ELTE.
 
 ## 🎓 Education
 
 - **Degree:** BSc in Computer Science
 - **University:** Eötvös Loránd University (ELTE)
 - **Current Year:** First Year
-
-## 📫 How to Reach Me
-
-- **Email:** [barna0801@gmail.com](mailto:barna0801@gmail.com)
-
-## 💬 Let's Connect!
-
-Feel free to reach out if you want to collaborate on a project, have any questions, or just want to chat about game development!
-Thanks for visiting my profile! 😊
