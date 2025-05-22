@@ -73,3 +73,5 @@ As practice for the Hungarian Matura exam, I solved every IT exam's programming 
 - **Degree:** BSc in Computer Science
 - **University:** Eötvös Loránd University (ELTE)
 - **Current Year:** First Year
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lothiard&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
