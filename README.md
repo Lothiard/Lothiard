@@ -27,6 +27,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
          alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
+         alt="Bash" width="40" height="40"/>
+  </a>
 </p>
 
 ### Technologies
@@ -42,6 +46,10 @@
   <a href="https://www.unrealengine.com/en-US/unreal-engine-5">
     <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg"
          alt="Unreal" width="40" height="40"/>
+  </a>
+  <a href="https://godotengine.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg"
+         alt="Godot" width="40" height="40"/>
   </a>
   <a href="https://visualstudio.microsoft.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"
