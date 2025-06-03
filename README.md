@@ -82,4 +82,4 @@ As practice for the Hungarian Matura exam, I solved every IT exam's programming 
 - **University:** Eötvös Loránd University (ELTE)
 - **Current Year:** First Year
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lothiard&theme=darkhub&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lothiard&theme=darkhub&rank=-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
