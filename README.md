@@ -1,6 +1,6 @@
 # yoooo
 
-## 'Experience':
+## 'Experience'
 ### from uni
 - Proficient in writing suboptimal algorithms with [enforced obvious bad practices](https://github.com/Lothiard/elte-cs-bsc/tree/main/1/.prog) that make me scream in pain
 - Able to efficiently turn UML diagrams into boilerplate code 
@@ -14,7 +14,7 @@
 I only really like C++ and Python; the rest I (am forced to) tolerate  
 I also won national first place back in 2016 in a [gamedev competition by Microsoft](https://www.pcwplus.hu/szoftver/veget-ert-elso-kodu-kupa-221476.html) which is pretty cool
 
-## Education
+## 'Education'
 
 - **Degree:** BSc in Computer Science
 - **University:** Eötvös Loránd University (ELTE)
