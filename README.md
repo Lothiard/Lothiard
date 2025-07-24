@@ -8,11 +8,11 @@
 
 ### from self-study
 - Gamedev in Unreal Engine 5 and Godot
-- Bash scripting and some Lua to rice Linux and nvim (by the way I use neovim btw)
+- Bash scripting and some Lua to rice Linux and nvim
 - C++ by reading lots of books and succumbing to the evil corporate world by solving [Leetcode](https://leetcode.com/u/Lothiard/) every day
 
 I only really like C++ and Python; the rest I (am forced to) tolerate  
-I also won national first place back in 2016 in a [gamedev competition by Microsoft](https://www.pcwplus.hu/szoftver/veget-ert-elso-kodu-kupa-221476.html) which is pretty cool
+I also won national first place back in 2016 in a [gamedev competition by Microsoft](https://www.pcwplus.hu/szoftver/veget-ert-elso-kodu-kupa-221476.html), which is pretty cool
 
 ## 'Education'
 
