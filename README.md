@@ -16,4 +16,4 @@ I also won national first place back in 2016 in a [gamedev competition by Micros
 
 ## Trophies to make up for my lack of achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lothiard&theme=darkhub&rank=-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygh.kolioaris.xyz/?username=Lothiard&theme=darkhub&rank=-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
